@@ -282,5 +282,5 @@ scroll-behavior: smooth;
 
 .botao:hover{
     width: 750px;
-    transition:all 0.3s ease-in-out 5s;
+    transition:all 0.3s ease-in-out 0s;
 }
